@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hillarywebb-coder.github.io/csb-726yno/static/css/main.13ba79d6.chunk.css",
+    "main.js": "https://hillarywebb-coder.github.io/csb-726yno/static/js/main.31e031b0.chunk.js",
+    "main.js.map": "https://hillarywebb-coder.github.io/csb-726yno/static/js/main.31e031b0.chunk.js.map",
+    "runtime-main.js": "https://hillarywebb-coder.github.io/csb-726yno/static/js/runtime-main.ac3bc16d.js",
+    "runtime-main.js.map": "https://hillarywebb-coder.github.io/csb-726yno/static/js/runtime-main.ac3bc16d.js.map",
+    "static/js/2.40d9ff65.chunk.js": "https://hillarywebb-coder.github.io/csb-726yno/static/js/2.40d9ff65.chunk.js",
+    "static/js/2.40d9ff65.chunk.js.map": "https://hillarywebb-coder.github.io/csb-726yno/static/js/2.40d9ff65.chunk.js.map",
+    "index.html": "https://hillarywebb-coder.github.io/csb-726yno/index.html",
+    "static/css/main.13ba79d6.chunk.css.map": "https://hillarywebb-coder.github.io/csb-726yno/static/css/main.13ba79d6.chunk.css.map",
+    "static/js/2.40d9ff65.chunk.js.LICENSE.txt": "https://hillarywebb-coder.github.io/csb-726yno/static/js/2.40d9ff65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac3bc16d.js",
+    "static/js/2.40d9ff65.chunk.js",
+    "static/css/main.13ba79d6.chunk.css",
+    "static/js/main.31e031b0.chunk.js"
+  ]
+}
